@@ -1,0 +1,17 @@
+groups	samples
+Control	Control-1
+Control	Control-2
+Control	Control-3
+Control	Control-4
+Cwp2	Cwp2-1
+Cwp2	Cwp2-2
+Cwp2	Cwp2-3
+Cwp2	Cwp2-4
+Emp24	Emp24-1
+Emp24	Emp24-2
+Emp24	Emp24-3
+Emp24	Emp24-4
+Gas1	Gas1-1
+Gas1	Gas1-2
+Gas1	Gas1-3
+Gas1	Gas1-4
