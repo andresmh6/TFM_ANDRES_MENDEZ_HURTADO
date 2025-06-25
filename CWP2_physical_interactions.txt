@@ -1,0 +1,30 @@
+Interactor	Interactor Systematic Name	Interactor	Interactor Systematic Name	Assay	Annotation	Action	Modification	Source	Reference	Note
+CWP2	YKL096W-A	ALO1	YML086C	PCA	high-throughput	Bait	No Modification	BioGRID	Tarassov K, et al. (2008) PMID:18467557	
+CWP2	YKL096W-A	BFR1	YOR198C	Affinity Capture-RNA	high-throughput	Hit	No Modification	BioGRID	Lapointe CP, et al. (2015) PMID:26524240	RNA Tagging
+CWP2	YKL096W-A	DHH1	YDL160C	Affinity Capture-RNA	high-throughput	Hit	No Modification	BioGRID	Mitchell SF, et al. (2013) PMID:23222640	UV cross-linking followed by immunoprecipitation
+CWP2	YKL096W-A	DHH1	YDL160C	Affinity Capture-RNA	high-throughput	Hit	No Modification	BioGRID	Jungfleisch J, et al. (2017) PMID:27821408	CRAC
+CWP2	YKL096W-A	EMP24	YGL200C	Affinity Capture-Western	manually curated	Hit	No Modification	BioGRID	Castillon GA, et al. (2011) PMID:21680708	
+CWP2	YKL096W-A	GAP1	YKR039W	Two-hybrid	manually curated	Hit	No Modification	BioGRID	Van Zeebroeck G, et al. (2011) PMID:21912684	
+CWP2	YKL096W-A	GAP1	YKR039W	Affinity Capture-Western	manually curated	Hit	No Modification	BioGRID	Van Zeebroeck G, et al. (2011) PMID:21912684	
+CWP2	YKL096W-A	IKS1	YJL057C	Biochemical Activity	high-throughput	Hit	phosphorylated residue	BioGRID	Ptacek J, et al. (2005) PMID:16319894	32P incorporation on protein chip
+CWP2	YKL096W-A	KAR2	YJL034W	Affinity Capture-MS	high-throughput	Bait	No Modification	BioGRID	Michaelis AC, et al. (2023) PMID:37968396	Protein interactions were identified using statistically significant enrichment of the proteins in the forward and reverse pull-downs, as well as making use of the profile similarities of interacting proteins in a correlation analysis. High confidence interactions have a total score >=2. This score is a sum of the FDR score of the forward pull-down + FDR score of the reverse pull-down + correlation score.
+CWP2	YKL096W-A	MES1	YGR264C	Affinity Capture-RNA	high-throughput	Hit	No Modification	BioGRID	Levi O and Arava YS (2021) PMID:33305314	
+CWP2	YKL096W-A	MLP2	YIL149C	Affinity Capture-MS	high-throughput	Bait	No Modification	BioGRID	Michaelis AC, et al. (2023) PMID:37968396	Protein interactions were identified using statistically significant enrichment of the proteins in the forward and reverse pull-downs, as well as making use of the profile similarities of interacting proteins in a correlation analysis. High confidence interactions have a total score >=2. This score is a sum of the FDR score of the forward pull-down + FDR score of the reverse pull-down + correlation score.
+CWP2	YKL096W-A	MRN1	YPL184C	Affinity Capture-RNA	high-throughput	Hit	No Modification	BioGRID	Bresson S, et al. (2023) PMID:36862555	
+CWP2	YKL096W-A	NAB2	YGL122C	Affinity Capture-RNA	high-throughput	Hit	No Modification	BioGRID	Batisse J, et al. (2009) PMID:19840948	High Throughput: The experiment involved high-throughput sequencing of the RNAs that co-precipitated with TAP-tagged Nab2 (Nab2-TAP).
+CWP2	YKL096W-A	NAB6	YML117W	Affinity Capture-RNA	high-throughput	Hit	No Modification	BioGRID	Bresson S, et al. (2023) PMID:36862555	
+CWP2	YKL096W-A	PAT1	YCR077C	Affinity Capture-RNA	high-throughput	Hit	No Modification	BioGRID	Mitchell SF, et al. (2013) PMID:23222640	UV cross-linking followed by immunoprecipitation
+CWP2	YKL096W-A	PUF2	YPR042C	Affinity Capture-RNA	high-throughput	Hit	No Modification	BioGRID	Porter DF, et al. (2015) PMID:26668354	HITS-CLIP|PAR-CLIP
+CWP2	YKL096W-A	SBH1	YER087C-B	Two-hybrid	manually curated	Hit	No Modification	BioGRID	Shyu P, et al. (2019) PMID:31201345	MYTH
+CWP2	YKL096W-A	SBP1	YHL034C	Affinity Capture-RNA	high-throughput	Hit	No Modification	BioGRID	Mitchell SF, et al. (2013) PMID:23222640	UV cross-linking followed by immunoprecipitation
+CWP2	YKL096W-A	SEC61	YLR378C	Co-localization	high-throughput	Hit	No Modification	BioGRID	Cohen N, et al. (2023) PMID:37073826	Cel-lctiv (CELlular biotin-Ligation for Capturing Transient Interactions in vivo)|Protein that preferentially bound Sec61p compared to Ssh1p.|Proximity ligation assay
+CWP2	YKL096W-A	SEC63	YOR254C	Two-hybrid	high-throughput	Hit	No Modification	BioGRID	Rizzolo K, et al. (2018) PMID:29659649	MYTH
+CWP2	YKL096W-A	SFP1	YLR403W	Affinity Capture-RNA	high-throughput	Hit	No Modification	BioGRID	Kelbert M, et al. (2024) PMID:39356734	
+CWP2	YKL096W-A	SHO1	YER118C	Two-hybrid	manually curated	Hit	No Modification	BioGRID	Lam MH, et al. (2015) PMID:25644660	MYTH
+CWP2	YKL096W-A	SHO1	YER118C	PCA	manually curated	Hit	No Modification	BioGRID	Lam MH, et al. (2015) PMID:25644660	Bimolecular Fluorescence Complementation
+CWP2	YKL096W-A	SMT3	YDR510W	PCA	high-throughput	Hit	No Modification	BioGRID	Sung MK, et al. (2013) PMID:23403034	bimolecular fluorescence complementation (BiFC) assay; non-covalent interaction
+CWP2	YKL096W-A	SMT3	YDR510W	Affinity Capture-Western	manually curated	Hit	No Modification	BioGRID	Sung MK, et al. (2013) PMID:23403034	#LPPI|Likely protein-protein interaction|Western blot indicated the protein migrates normally and thus interacts non-covalently with SUMO
+CWP2	YKL096W-A	SSB2	YNL209W	Co-purification	high-throughput	Hit	No Modification	BioGRID	Willmund F, et al. (2013) PMID:23332755	isolation of cotranslationally bound SSB-RNC complexes allows us to identify the chaperone-bound nascent polypeptides through analysis of the mRNAs encoding the substrates
+CWP2	YKL096W-A	SSD1	YDR293C	Affinity Capture-RNA	high-throughput	Hit	No Modification	BioGRID	Bayne RA, et al. (2022) PMID:34302485	
+CWP2	YKL096W-A	TFA1	YKL028W	Affinity Capture-MS	high-throughput	Bait	No Modification	BioGRID	Krogan NJ, et al. (2006) PMID:16554755	
+CWP2	YKL096W-A	YGR111W	YGR111W	Affinity Capture-MS	high-throughput	Bait	No Modification	BioGRID	Michaelis AC, et al. (2023) PMID:37968396	Protein interactions were identified using statistically significant enrichment of the proteins in the forward and reverse pull-downs, as well as making use of the profile similarities of interacting proteins in a correlation analysis. High confidence interactions have a total score >=2. This score is a sum of the FDR score of the forward pull-down + FDR score of the reverse pull-down + correlation score.
